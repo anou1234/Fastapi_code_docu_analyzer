@@ -109,6 +109,6 @@ Contributions are welcome! If you'd like to help improve this project, please fo
 ## Contact
 
 - **Author**: Anoushka Srivastava
-- **Email**: anoushkathegreat28@gmail.com
+- **Email**: anoushkathegreat28@gmail.com/anoushka.srivastava.21cse@bmu.edu.in
 - **GitHub**: [anou1234](https://github.com/anou1234)
 
