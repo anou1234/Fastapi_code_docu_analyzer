@@ -1,8 +1,8 @@
-# FastAPI Project: Code and README Analyzer
+# Intern Assignment checker - GenAI & FastAPI Based Code & Documentation Analyzer
 
 ## Overview
 
-This project is a FastAPI application that allows users to upload a project folder (in ZIP format) for code and README analysis. The application evaluates the quality of the code, generates improved code suggestions, and assesses the quality of the README documentation. The results are presented through a web interface, making it easy for developers to understand the strengths and weaknesses of their projects.
+This project is a FastAPI application leveraging the power of the Gemini's Generative AI API that allows users to upload a project folder (in ZIP format) for code and README analysis. The application evaluates the quality of the code, generates improved code suggestions, and assesses the quality of the README documentation. The results are presented through a web interface, making it easy for developers to understand the strengths and weaknesses of their projects.
 
 ## Table of Contents
 
@@ -13,12 +13,14 @@ This project is a FastAPI application that allows users to upload a project fold
 - [README Analysis](#readme-analysis)
 - [Contributing](#contributing)
 - [Contact](#contact)
+- [Webapp Screenshots](#webapp-screenshots)
 
-## Requirements
+## Requirements 
 
 - **Python**: Version 3.8 or higher
 - **FastAPI**: Web framework for building APIs
 - **Uvicorn**: ASGI server for running the FastAPI application
+- **Gemini API** : Gemini's Generative AI API for code & documentation analysis
 
 ## Installation
 
@@ -93,17 +95,13 @@ Contributions are welcome! If you'd like to help improve this project, please fo
 
 1. **Fork the Repository**: Create your copy of the repository on GitHub.
 2. **Create a Branch**: Work on your feature or fix:
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
 3. **Commit Your Changes**: Keep your commits clear and concise.
 4. **Push to Your Branch**: 
-   ```bash
-   git push origin feature/YourFeature
-   ```
 5. **Submit a Pull Request**: Share your changes with the main project.
-
-
+## Webapp Screenshots
+<img src="https://github.com/user-attachments/assets/eb0ef7d7-7423-4912-a897-b8e6046f5941" alt="Screenshot 2024-09-15 214027" width="500" height="300">
+<img src="https://github.com/user-attachments/assets/d006fd9c-f31d-496c-ab7a-23e7886748d9" alt="Screenshot 2024-09-15 214125" width="500" height="300">
+<img src="https://github.com/user-attachments/assets/7e4f24b0-48ee-49ac-83ce-4619b6546340" alt="Screenshot 2024-09-15 214139" width="600" height="300">
 
 ## Contact
 
