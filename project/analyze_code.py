@@ -4,7 +4,7 @@ import json
 import zipfile
 import re
 
-genai.configure(api_key='AIzaSyAwJ9-FCpXys7ZtBLLna0tao1bzPunPwRc')  # Replace with your actual API key
+genai.configure(api_key='')  # Replace with your actual API key
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 def analyze_code(file_path):
