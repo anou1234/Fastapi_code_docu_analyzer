@@ -19,7 +19,7 @@ This project is a FastAPI application that allows users to upload a project fold
 - **Python**: Version 3.8 or higher
 - **FastAPI**: Web framework for building APIs
 - **Uvicorn**: ASGI server for running the FastAPI application
-- **Other Libraries**: Specify other libraries used (if any, e.g., for file handling, JSON parsing)
+
 
 ## Installation
 
@@ -28,7 +28,7 @@ This project is a FastAPI application that allows users to upload a project fold
    Open your terminal and clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/my_fastapi_project.git
+   git clone https://github.com/anou1234/Fastapi_code_docu_analyzer.git
    cd my_fastapi_project
    ```
 
