@@ -101,7 +101,7 @@ Contributions are welcome! If you'd like to help improve this project, please fo
 ## Webapp Screenshots
 <img src="https://github.com/user-attachments/assets/eb0ef7d7-7423-4912-a897-b8e6046f5941" alt="Screenshot 2024-09-15 214027" width="500" height="300">
 <img src="https://github.com/user-attachments/assets/d006fd9c-f31d-496c-ab7a-23e7886748d9" alt="Screenshot 2024-09-15 214125" width="500" height="300">
-<img src="https://github.com/user-attachments/assets/7e4f24b0-48ee-49ac-83ce-4619b6546340" alt="Screenshot 2024-09-15 214139" width="600" height="300">
+<img src="https://github.com/user-attachments/assets/84786eb4-f52d-4e01-b18c-cf9cd15121c9" alt="Screenshot 2024-09-15 214139" width="600" height="300">
 
 ## Contact
 
