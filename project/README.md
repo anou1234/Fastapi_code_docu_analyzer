@@ -41,7 +41,13 @@ This project is a FastAPI application leveraging the power of the Gemini's Gener
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
+3. **Install Dependencies**
 
+   Use `pip` to install the required packages:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 
 ## Usage
