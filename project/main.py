@@ -139,12 +139,20 @@ def generate_report():
         for key, value in readme_data.items():
             report_html += f"""
                 <h3>{key.capitalize()}</h3>
-                <div class="feedback">{value}</div>
+                <div class="feedback">{str(value)[1:-1]}</div>
                 <hr>
             """
+        # Check if 'score' is a subkey in the current value
+            if isinstance(value, dict) and 'score' in value:
+                score = value['score']  # Extract the score
+                report_html += f"""
+                    <div class="score">Score: {score}</div>
+                """
+            report_html += "<hr>"
         report_html += """
             </div>
         """
+        
     except Exception as e:
         report_html += f"<p style='color:red;'>Error loading README analysis: {e}</p>"
 
